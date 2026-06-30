@@ -142,6 +142,12 @@ Tarea 1c/
 - matplotlib
 - seaborn
 
+Ver `requirements.txt` para instalar las dependencias:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Autor
 
 **Carlos Ojeda**
